@@ -3,8 +3,7 @@ author = ""
 categories = []
 cover = ""
 date = 2020-01-04T16:00:00Z
-description = ""
-draft = true
+description = "Glances can show a list of Glances servers along with a summary of their activity. "
 tags = []
 title = "Monitoring Linux and Windows hosts with Glances"
 
