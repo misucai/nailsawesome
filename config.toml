@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://nailsawesome.com/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 10
